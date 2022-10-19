@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 It now includes steps for github
 
 I need to foucs more in my git class.
+
+git push Branch to GitHub.
