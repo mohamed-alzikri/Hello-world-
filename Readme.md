@@ -9,3 +9,5 @@ It now includes steps for github
 I need to foucs more in my git class.
 
 git push Branch to GitHub.
+
+I'm trying to use github by  my self 
